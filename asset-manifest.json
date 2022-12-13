@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/MyPortFolio/static/css/main.2681c6cc.css",
+    "main.js": "/MyPortFolio/static/js/main.19e90672.js",
+    "static/media/r.jpg": "/MyPortFolio/static/media/r.b1897a98148f14097aa3.jpg",
+    "static/media/dsa.jpg": "/MyPortFolio/static/media/dsa.fa0c96e26805424e0c4c.jpg",
+    "static/media/back.jpg": "/MyPortFolio/static/media/back.7001666c0f81d2c476ed.jpg",
+    "static/media/react.jpg": "/MyPortFolio/static/media/react.851950bd883b31be8530.jpg",
+    "static/media/c.jpg": "/MyPortFolio/static/media/c.9f3f81a6893953789637.jpg",
+    "static/media/java.jpg": "/MyPortFolio/static/media/java.d6dc52b74458eae1c65d.jpg",
+    "static/media/store.jpg": "/MyPortFolio/static/media/store.cebe1068a4e11a008f48.jpg",
+    "static/media/note.jpg": "/MyPortFolio/static/media/note.625e567be0aec35a8689.jpg",
+    "static/media/insta.jpg": "/MyPortFolio/static/media/insta.3f9297c9a3088444603f.jpg",
+    "static/media/brain.jpg": "/MyPortFolio/static/media/brain.04569ba270606f03db49.jpg",
+    "static/media/tic.jpg": "/MyPortFolio/static/media/tic.2eb8d460dca9cd7f0e00.jpg",
+    "static/media/ball.jpg": "/MyPortFolio/static/media/ball.07c7745ef2732427a63c.jpg",
+    "index.html": "/MyPortFolio/index.html",
+    "main.2681c6cc.css.map": "/MyPortFolio/static/css/main.2681c6cc.css.map",
+    "main.19e90672.js.map": "/MyPortFolio/static/js/main.19e90672.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2681c6cc.css",
+    "static/js/main.19e90672.js"
+  ]
+}
