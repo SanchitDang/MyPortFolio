@@ -10,7 +10,7 @@ function App() {
   return (
     <>
     
-    <BrowserRouter>
+    <BrowserRouter basename="/MyPortFolio">
         <Routes>
           <Route path="/" element={<Home/>}/>    
           <Route path="/Projects" element={<Projects/>}/>   
@@ -20,7 +20,6 @@ function App() {
           <Route path="/Pract" element={<Pract/>}/>
         </Routes>
     </BrowserRouter>
-         
     
     </>
 )}
