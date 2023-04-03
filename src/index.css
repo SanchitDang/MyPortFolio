@@ -17,7 +17,7 @@ body {
 
 /* unvisited link */
 a:link {
-  color: var(--primary-color);
+  color: var(--text-color);
 }
 
 /* visited link */
