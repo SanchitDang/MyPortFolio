@@ -45,6 +45,10 @@ a:hover {
   color: var(--text-color);
 }
 
+.card-text-2 {
+  text-align: left;
+}
+
 .dark-footer {
   color: var(--primary-color);
 }

@@ -17,7 +17,7 @@ export default function Achievements() {
 
         <div class="row py-5">
           <div class="col d-flex justify-content-center">
-            <div class="dark-card card" style={{ width: "18rem" }}>
+            <div class="dark-card card" style={{ width: "22rem" }}>
               <img
                 src={require("./images/spring.jpg")}
                 class="card-img-top"
@@ -42,7 +42,7 @@ export default function Achievements() {
           </div>
 
           <div class="col d-flex justify-content-center">
-            <div class="dark-card card" style={{ width: "18rem" }}>
+            <div class="dark-card card" style={{ width: "22rem" }}>
               <img
                 src={require("./images/blockchain.jpg")}
                 class="card-img-top"
@@ -67,7 +67,7 @@ export default function Achievements() {
           </div>
 
           <div class="col d-flex justify-content-center">
-            <div class="dark-card card " style={{ width: "18rem" }}>
+            <div class="dark-card card " style={{ width: "22rem" }}>
               <img
                 src={require("./images/java.jpg")}
                 class="card-img-top"
@@ -95,7 +95,7 @@ export default function Achievements() {
 
         <div class="row py-5">
           <div class="col d-flex justify-content-center">
-            <div class="dark-card card" style={{ width: "18rem" }}>
+            <div class="dark-card card" style={{ width: "22rem" }}>
               <img
                 src={require("./images/c.jpg")}
                 class="card-img-top"
@@ -120,7 +120,7 @@ export default function Achievements() {
           </div>
 
           <div class="col d-flex justify-content-center">
-            <div class="dark-card card " style={{ width: "18rem" }}>
+            <div class="dark-card card " style={{ width: "22rem" }}>
               <img
                 src={require("./images/java.jpg")}
                 class="card-img-top"
@@ -145,7 +145,7 @@ export default function Achievements() {
           </div>
 
           <div class="col d-flex justify-content-center">
-            <div class="dark-card card" style={{ width: "18rem" }}>
+            <div class="dark-card card" style={{ width: "22rem" }}>
               <img
                 src={require("./images/r.jpg")}
                 class="card-img-top"
@@ -173,7 +173,7 @@ export default function Achievements() {
 
         <div class="row py-3">
           <div class="col d-flex justify-content-center">
-            <div class="dark-card card " style={{ width: "18rem" }}>
+            <div class="dark-card card " style={{ width: "22rem" }}>
               <img
                 src={require("./images/ai.jpg")}
                 class="card-img-top"
@@ -199,7 +199,7 @@ export default function Achievements() {
           </div>
 
           <div class="col d-flex justify-content-center">
-            <div class="dark-card card" style={{ width: "18rem" }}>
+            <div class="dark-card card" style={{ width: "22rem" }}>
               <img
                 src={require("./images/advance.jpg")}
                 class="card-img-top"
@@ -224,7 +224,7 @@ export default function Achievements() {
           </div>
 
           <div class="col d-flex justify-content-center">
-            <div class="dark-card card " style={{ width: "18rem" }}>
+            <div class="dark-card card " style={{ width: "22rem" }}>
               <img
                 src={require("./images/dart.jpg")}
                 class="card-img-top"
@@ -254,7 +254,7 @@ export default function Achievements() {
 
         <div class="row py-3">
           <div class="col d-flex justify-content-center">
-            <div class="dark-card card " style={{ width: "18rem" }}>
+            <div class="dark-card card " style={{ width: "22rem" }}>
               <img
                 src={require("./images/react.jpg")}
                 class="card-img-top"
@@ -280,7 +280,7 @@ export default function Achievements() {
           </div>
 
           <div class="col d-flex justify-content-center">
-            <div class="dark-card card" style={{ width: "18rem" }}>
+            <div class="dark-card card" style={{ width: "22rem" }}>
               <img
                 src={require("./images/dsa.jpg")}
                 class="card-img-top"
@@ -305,7 +305,7 @@ export default function Achievements() {
           </div>
 
           <div class="col d-flex justify-content-center">
-            <div class="dark-card card " style={{ width: "18rem" }}>
+            <div class="dark-card card " style={{ width: "22rem" }}>
               <img
                 src={require("./images/back.jpg")}
                 class="card-img-top"
