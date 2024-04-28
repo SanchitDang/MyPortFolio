@@ -2,13 +2,14 @@
   --primary-color: #F7F8FB;
   --secondory-color: #FFFEFF;
   --text-color: black;
-  
+  --border-color: #01010160; 
 }
 
 .dark-theme {
   --primary-color: #121212;
   --secondory-color: #1E1E1E;
   --text-color:#E1E1E1;
+  --border-color: #ffffff60;
 }
 
 body {
@@ -64,8 +65,19 @@ a:hover {
   border-color: #0056b3; 
 }
 
+.icon {
+  width: auto;
+  height: auto;
+}
+
+.pb-2.border-bottom {
+  text-align: left;
+  border-bottom: 0.2px solid var(--border-color) !important; 
+}
+
+
 ::-webkit-scrollbar {
-  width: 1.45rem;
+  width: 1.4rem;
 }
 
 ::-webkit-scrollbar-track {

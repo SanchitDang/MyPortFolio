@@ -17,7 +17,7 @@ export default function Navbar(props) {
           <li><Link to="/" className={`nav-link px-2 `}>Home</Link></li>
           <li><Link to="/Projects" className={`nav-link px-2 `}>Projects</Link></li>
           <li><Link to="/About" className={`nav-link px-2 `}>About</Link></li>
-          <li><Link to="/Achievements" className={`nav-link px-2 `}>Achievements</Link></li>
+          <li><Link to="/Achievements" className={`nav-link px-2 `}>Certificates</Link></li>
           <li><Link to="/Contact" className={`nav-link px-2 `}>Contact</Link></li>
         </ul>
         <div class="col-md-3 text-end ">
