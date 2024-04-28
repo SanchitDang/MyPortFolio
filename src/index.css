@@ -48,8 +48,21 @@ a:hover {
   color: var(--primary-color);
 }
 
+.btn-download {
+  font-size: 1rem;
+  padding: 0.75rem 1.5rem;
+  border-radius: 0.5rem;
+  text-transform: uppercase;
+  font-weight: 600; 
+  background-color: #007bff; 
+  border-color: #007bff; 
+  /* color: #fff !important;  */
+}
 
-
+.btn-download:hover {
+  background-color: #0056b3; 
+  border-color: #0056b3; 
+}
 
 ::-webkit-scrollbar {
   width: 1.45rem;
